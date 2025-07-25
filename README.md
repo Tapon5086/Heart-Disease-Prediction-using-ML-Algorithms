@@ -1,6 +1,4 @@
-Here is a complete and professional `README.md` file for your **Heart Disease Prediction using ML Algorithms** GitHub project:
 
----
 
 ### ✅ `README.md`
 
